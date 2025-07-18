@@ -1,0 +1,58 @@
+<GameConfig
+	maps="Approach,Courtyard,Tunnel,Tunnel,Courtyard,Tunnel,Sanctum"
+	screenSizeX="1600"
+	screenSizeY="800"
+	debugDrawLineThickness="0.03"
+	playerDriveSpeed="2"
+	playerStartPosition ="1.5f,1.5f"
+	playerPhysicsRadius ="0.3"
+	playerCosmeticRadius ="0.4"
+	playerTurnRate="360"
+	playerGunTurnRate="720"
+	playerHealth ="10"
+	playerShootCooldownSeconds="0.1"
+	
+	bulletBounceVarianceDegrees="10"
+	defaultBulletSpeed="3"
+	defaultBoltSpeed="6"
+	bulletPhysicsRadius ="0.1"
+	bulletCosmeticWidth ="0.15"
+	bulletCosmeticHeight="0.075"
+	bulletSpeed ="8.0"
+	bulletGoodDamage ="1"
+	bulletBadDamage ="1"
+	
+	scorpioTurnRate="30"
+	scorpioTurnAperture="10"
+	scorpioShootCooldownSeconds="0.3"
+	scorpioPhysicsRadius ="0.3f"
+	scorpioCosmeticRadius ="0.4f"
+	scorpioHealth ="5"
+	enemyVisibleRange="10"
+	
+	leoDriveSpeed="0.5"
+	leoTurnRate="90"
+	leoPhysicsRadius ="0.3"
+	leoCosmeticRadius ="0.4"
+	
+	leoDriveAperture="180"
+	leoShootAperture="10"
+	leoWanderRandomizePeriod="1.0"
+	leoShootCooldownSeconds="1.3"
+	leoHealth ="5"
+	
+	ariesDriveSpeed="0.5"
+	ariesTurnRate="180"
+	ariesDriveAperture="90"
+	ariesWanderRandomizePeriod="1.0"
+	ariesPhysicsRadius ="0.3"
+	ariesCosmeticRadius ="0.4"
+	ariesHealth ="5"
+	
+	perishFadeoutSeconds="3.0"
+	startAreaSize="5"
+	endAreaSize="6"
+/>
+
+
+
